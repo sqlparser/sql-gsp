@@ -6,6 +6,12 @@ Describe the relationship between ANSI SQL and GSP library
 
 A digital copy of `SQL-99 Complete, Really`_.
 
+Generate doc
+============
+After push to this repo, document will be automatically generated under:
+
+https://sql-gsp.readthedocs.io/en/latest/
+
 
 Contributing
 ============
