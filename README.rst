@@ -12,6 +12,7 @@ After push to this repo, document will be automatically generated under:
 
 https://sql-gsp.readthedocs.io/en/latest/
 
+准备在本地搭建环境，可以在本地创建html文档。
 
 Contributing
 ============
