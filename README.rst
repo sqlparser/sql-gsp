@@ -2,6 +2,8 @@
 SQL-99 Complete, Really
 =======================
 
+Describe the relationship between ANSI SQL and GSP library
+
 A digital copy of `SQL-99 Complete, Really`_.
 
 
