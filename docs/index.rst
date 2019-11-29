@@ -1,8 +1,8 @@
 .. _index:
 
-===========================
-SQL-99 Complete Ref, Really
-===========================
+=========================
+SQL-GSP library Reference
+=========================
 
 .. rubric:: Table of Contents
 
