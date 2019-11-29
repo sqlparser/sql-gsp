@@ -14,6 +14,8 @@ https://sql-gsp.readthedocs.io/en/latest/
 
 准备在本地搭建环境，可以在本地创建html文档。
 
+backup目录是原始docs目录的备份，docs目录的文件根据本项目需要会被删除、更改。
+
 Contributing
 ============
 
